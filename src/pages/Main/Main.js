@@ -6,7 +6,7 @@ import {
   Landing,
   About,
   Skills,
-  Testimonials,
+  // Testimonials,
   Blog,
   Education,
   Experience,
@@ -15,7 +15,7 @@ import {
   Services,
   Achievement,
 } from "../../components";
-import { headerData } from "../../data/headerData";
+// import { headerData } from "../../data/headerData";
 
 function Main() {
   return (
