@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
 </p>
 
-## Check out my portfolio! 💼 - https://anirudhjakhotia.netlify.app/
 
 <br />
 
@@ -353,7 +352,7 @@ export const educationData = [
 
 <br />
 
-# Created with ❤️ by Anirudh Jakhotia!
+# Created with ❤️ by Ash!
 
 <img height="120" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
