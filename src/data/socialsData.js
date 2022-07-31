@@ -1,0 +1,15 @@
+export const socialsData = {
+  github: "https://github.com/thynameisash",
+  //   facebook: "https://www.facebook.com/",
+  youtube: "https://www.youtube.com/channel/UC6Nw8U7OCcK916CiVTynb2Q",
+  linkedIn: "https://www.linkedin.com/in/aashray-sharma-08a312245/",
+  instagram: "https://www.instagram.com/",
+  //   codepen: "https://codepen.io/",
+  leetcode: "https://leetcode.com/ash990",
+  //   reddit: "https://www.reddit.com/user/",
+  //   blogger: "https://www.blogger.com/",
+  //   hackerrank: "https://www.hackerrank.com/",
+  //   medium: "https://medium.com/@",
+  //   stackOverflow: "https://stackoverflow.com/users/",
+  //   gitlab: "https://gitlab.com/",
+};
