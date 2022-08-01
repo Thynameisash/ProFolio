@@ -1,7 +1,7 @@
 export const educationData = [
   {
     id: 1,
-    institution: "Banaridas Chandiwala Institute of Information Technology",
+    institution: "Banarsidas Chandiwala Institute of Information Technology",
     course: "Masters in Computer Applications",
     startYear: "2021",
     endYear: "Present",
