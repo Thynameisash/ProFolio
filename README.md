@@ -60,8 +60,8 @@ git --version
 
 #### To Fork the repo click on the fork button at the top right of the page. To get the code-base, open your terminal and perform the following commands shown below:
 ```
-git clone https://github.com/anirudhjak06/My-Portfolio.git
-cd My-Portfolio-main
+https://github.com/Thynameisash/ProFolio.git
+
 ```
 ### Install packages from the root directory
 ```
