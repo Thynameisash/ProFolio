@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
 </p>
 
+--->> [Check out my Portfolio here !!](http://ashpf.netlify.app) 
 
 <br />
 
@@ -59,8 +60,8 @@ git --version
 
 #### To Fork the repo click on the fork button at the top right of the page. To get the code-base, open your terminal and perform the following commands shown below:
 ```
-git clone https://github.com/anirudhjak06/My-Portfolio.git
-cd My-Portfolio-main
+https://github.com/Thynameisash/ProFolio.git
+
 ```
 ### Install packages from the root directory
 ```
